@@ -1,0 +1,3 @@
+# Stripe Configuration 
+stripe.secret.key=your_secret_key_here 
+jwt.secret=your_jwt_secret_here 

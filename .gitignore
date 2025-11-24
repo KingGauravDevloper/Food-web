@@ -1,0 +1,17 @@
+# Environment files 
+food-frontend/.env 
+food-backend/src/main/java/com/zosh/Online/Food/resources/application.properties 
+.env 
+*.properties 
+ECHO is on.
+# Dependencies 
+node_modules/ 
+target/ 
+ECHO is on.
+# Production 
+build/ 
+dist/ 
+ECHO is on.
+# IDE 
+.idea/ 
+.vscode/ 
