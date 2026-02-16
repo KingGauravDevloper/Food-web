@@ -35,7 +35,7 @@ const Admin = () => {
     restaurantId : restaurant.usersRestaurant?.id,
   }))
 
-  },[]);
+  },[dispatch, jwt, restaurant.usersRestaurant?.id]);
   return (
     <div>
       <div className='lg:flex justify-between'>
